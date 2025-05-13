@@ -142,5 +142,7 @@ CustomerComplaintManagementSystem/
 <img width="818" alt="Снимок экрана 2025-05-11 в 19 16 25" src="https://github.com/user-attachments/assets/53140ff4-5e5f-4f40-bfa7-6236f27e8f1d" />
 <img width="1440" alt="Снимок экрана 2025-05-11 в 19 15 50" src="https://github.com/user-attachments/assets/9cdfb49e-3501-4db1-8c3b-c0c89a3bd797" />
 
-
+---
+# link to presentation 
+https://www.canva.com/design/DAGnQKXDUBI/59Z6gODqZOSL6C03sfKx9w/edit?utm_content=DAGnQKXDUBI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
