@@ -1,10 +1,10 @@
-# 📋 Customer Complaint Management System
+#  Customer Complaint Management System
 
 This is a Java-based application designed to help organizations **log**, **track**, **resolve**, and **manage customer complaints** efficiently. The system supports both a **Command-Line Interface (CLI)** and a **Graphical User Interface (GUI)** using **JavaFX**. Data is stored in an **SQLite database**.
 
 ---
 
-## 👩‍💻 Developed by
+##  Developed by
 
 **Salima Abdyrasakova**  
 _COMCEH-23_  
@@ -12,7 +12,7 @@ _COMCEH-23_
 
 
 
-## 🎯 Project Goals
+##  Project Goals
 
 - Practice object-oriented programming in Java.
 - Implement full **CRUD operations**.
@@ -23,22 +23,22 @@ _COMCEH-23_
 
 ---
 
-## ✨ Features
+##  Features
 
-✅ Create, view, update, and delete complaints  
-✅ Track complaint status (Open / In Progress / Resolved)  
-✅ Export and import complaints using **CSV**  
-✅ Filter complaints by status  
-✅ Login system with **Admin/User** roles  
-✅ GUI with JavaFX  
-✅ Database integration using SQLite  
-✅ Modular architecture  
-✅ Includes test cases  
-✅ Fully documented code  
+ Create, view, update, and delete complaints  
+ Track complaint status (Open / In Progress / Resolved)  
+ Export and import complaints using **CSV**  
+ Filter complaints by status  
+ Login system with **Admin/User** roles  
+ GUI with JavaFX  
+ Database integration using SQLite  
+ Modular architecture  
+ Includes test cases  
+ Fully documented code  
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 CustomerComplaintManagementSystem/
 ├── src/
@@ -59,7 +59,7 @@ CustomerComplaintManagementSystem/
 
 ---
 
-## 🔐 Login Credentials
+##  Login Credentials
 
 | Role   | Username | Password |
 |--------|----------|----------|
@@ -71,21 +71,21 @@ CustomerComplaintManagementSystem/
 
 ---
 
-## 🖥️ How to Run
+## How to Run
 
-### ✅ Requirements
+###  Requirements
 
 - JDK 17 or higher
 - JavaFX SDK (download from [openjfx.io](https://openjfx.io))
 - IntelliJ IDEA (recommended)
 
-### 💻 CLI Version
+###  CLI Version
 
 1. Open `Main.java`
 2. Run the file
 3. Follow the menu in terminal
 
-### 🪟 GUI Version (JavaFX)
+###  GUI Version (JavaFX)
 
 1. Open `MainFX.java`
 2. Set **VM Options** in Run Configurations:
@@ -98,7 +98,7 @@ CustomerComplaintManagementSystem/
 
 ---
 
-## 🧪 Sample Test Cases
+##  Sample Test Cases
 
 | Scenario              | Input                                 | Expected Output                       |
 |-----------------------|----------------------------------------|----------------------------------------|
@@ -111,20 +111,20 @@ CustomerComplaintManagementSystem/
 
 ---
 
-## 🧠 Improvements Table
+##  Improvements Table
 
 | 🔧 Feature                                  | Included? | Why Add?                          |
 |--------------------------------------------|-----------|-----------------------------------|
-| Login System (Admin/User)                  | ✅ Yes    | Bonus points + Realism            |
-| Status Filtering                           | ✅ Yes    | Easy navigation of complaint list |
-| CSV Export                                 | ✅ Yes    | Shareable and archivable records  |
-| SQLite Database                            | ✅ Yes    | Persistent and professional       |
-| GUI Polish (Dark mode, etc.)               | ❌ No     | For visual enhancement            |
-| Multi-language Support                     | ❌ No     | Future extension idea             |
+| Login System (Admin/User)                  |  Yes    | Bonus points + Realism            |
+| Status Filtering                           |  Yes    | Easy navigation of complaint list |
+| CSV Export                                 |  Yes    | Shareable and archivable records  |
+| SQLite Database                            |  Yes    | Persistent and professional       |
+| GUI Polish (Dark mode, etc.)               |  No     | For visual enhancement            |
+| Multi-language Support                     |  No     | Future extension idea             |
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 
 - Java 17+
 - JavaFX 21
