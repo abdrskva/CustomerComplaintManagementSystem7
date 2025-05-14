@@ -135,7 +135,7 @@ CustomerComplaintManagementSystem/
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 <img width="1440" alt="Снимок экрана 2025-05-11 в 19 17 43" src="https://github.com/user-attachments/assets/3348d087-bb80-4325-9cf4-dd521d69d4db" />
 <img width="1440" alt="Снимок экрана 2025-05-11 в 19 16 32" src="https://github.com/user-attachments/assets/54458925-f459-4fc5-a839-ada7d3bc6ee8" />
